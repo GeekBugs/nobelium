@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'GeekBug',
+  author: 'Huang Yonghuang',
+  email: 'hyh9102@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: 'This my Blog.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -16,9 +16,9 @@ const BLOG = {
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/GeekBugss',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', 'Website', 'Notion', 'GeekBug'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
